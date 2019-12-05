@@ -21,8 +21,11 @@
     Scale-invariant feature transform - https://en.wikipedia.org/wiki/Scale-invariant_feature_transform
 
 
+
 Что прочитать:
     https://habr.com/ru/company/ods/blog/322626/ - набор статей, вроде норм
+    https://habr.com/ru/company/yandex/blog/208034/ - статьи от yandex (сложнее и от 2014)
+    
 
 
 Открытые реализации Pose Estimation:
